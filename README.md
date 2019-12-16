@@ -1,4 +1,4 @@
 # arduino-pong
 Pong game running on an Arduino and displayed on a 64x32 LED matrix.
 
-![Gif of gameplay](https://i.imgur.com/Cteu4io.gifv)
+![](gameplay.gifv)
